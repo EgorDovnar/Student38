@@ -1,0 +1,4 @@
+Uchenik1 Uch1 20 Minsk11 Ulica11 11 12
+Uchenik12 Uch12 21 Minsk22 Ulica22 22 32
+Uchenik13 Uch13 22 Minsk33 Ulica33 42 52
+Uchenik14 Uch14 22 Minsk44 Ulica44 62 72

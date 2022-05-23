@@ -1,0 +1,4 @@
+Artem Artemov 20 Minsk Ulica 10 11
+Boris Britva 25 Minsk2 Ulica2 20 22
+Vova Vovikov 30 Minsk3 Ulica3 30 33
+Georgiy Georgov 35 Minsk4 Ulica4 40 44
